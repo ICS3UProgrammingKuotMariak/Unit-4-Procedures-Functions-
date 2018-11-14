@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Kuot Mariak
+ * Created on: 14-11-2018
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #30 - Temperature Converter
+ * ConvertToFahr
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,11 +17,18 @@ using System.Windows.Forms;
 
 namespace ConvertToFahr_KuotM_
 {
+
     public partial class frmConvertToFahr : Form
     {
         public frmConvertToFahr()
         {
             InitializeComponent();
+        }
+
+
+        private void btnConvert_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
