@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\ConvertToFahr(KuotM)\ConvertToFahr(KuotM)\bin\Debug\ConvertToFahr(KuotM).exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\ConvertToFahr(KuotM)\ConvertToFahr(KuotM)\bin\Debug\ConvertToFahr(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\ConvertToFahr(KuotM)\ConvertToFahr(KuotM)\bin\Debug\ConvertToFahr(KuotM).pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\ConvertToFahr(KuotM)\ConvertToFahr(KuotM)\obj\Debug\ConvertToFahr(KuotM).csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\ConvertToFahr(KuotM)\ConvertToFahr(KuotM)\obj\Debug\ConvertToFahr_KuotM_.frmConvertToFahr.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\ConvertToFahr(KuotM)\ConvertToFahr(KuotM)\obj\Debug\ConvertToFahr_KuotM_.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\ConvertToFahr(KuotM)\ConvertToFahr(KuotM)\obj\Debug\ConvertToFahr(KuotM).csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\ConvertToFahr(KuotM)\ConvertToFahr(KuotM)\obj\Debug\ConvertToFahr(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\ConvertToFahr(KuotM)\ConvertToFahr(KuotM)\obj\Debug\ConvertToFahr(KuotM).pdb
