@@ -32,7 +32,7 @@ namespace ConvertToFahr_KuotM_
             // Convert celsius to fahrenheit
             Fahrenheit = 9 / (double) (5) * Celsius + 32;
             // Displays the message box
-            MessageBox.Show(Celsius + "°C (Celsius) is equal to", + Fahrenheit + "°F(Fahrenheit)");
+            MessageBox.Show(Celsius + "°C (Celsius) is equal to" + Fahrenheit + "°F(Fahrenheit)");
 
         }
         
