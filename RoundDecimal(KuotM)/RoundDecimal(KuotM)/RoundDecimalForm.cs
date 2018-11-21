@@ -24,19 +24,49 @@ namespace RoundDecimal_KuotM_
             InitializeComponent();
         }
 
-        public void RoundDecimal(ref )
+        public void RoundDecimal(ref double roundedNum, int numDecimal)
         {
+            // This moves the decimal place
+            roundedNum = roundedNum * Math.Pow(10, numDecimal);
 
+            // This adds 0.5
+            roundedNum = roundedNum + 0.5;
+
+            // This gets rid of the decimal
+            roundedNum = Math.Truncate(roundedNum);
+
+            // This moves the decimal place back
+            roundedNum = roundedNum / Math.Pow(10, numDecimal);
         }
 
 
         private void btnRound_Click(object sender, EventArgs e)
         {
             // This declares local variables
-            float userNum;
+            double userNum;
+            int userDecimal;
+            const int MIN_NUM = 1;
+            const int MAX_NUM = 10;
+
+            // This assigns the min and max values 
+            nudDecimal.Minimum = MIN_NUM;
+            nudDecimal.Maximum = MAX_NUM;
+
+            // This converts
+            userNum = Convert.ToDouble(txtUserNum.Text);
+            userDecimal = Convert.ToInt32(nudDecimal.Value);
+
+            // This calls the procedure
+            this.RoundDecimal(ref userNum, userDecimal);
+
+            // This displays in a message box
+            MessageBox.Show("Your number rounded is " + userNum);
             
+        }
 
-
+        private void mniExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

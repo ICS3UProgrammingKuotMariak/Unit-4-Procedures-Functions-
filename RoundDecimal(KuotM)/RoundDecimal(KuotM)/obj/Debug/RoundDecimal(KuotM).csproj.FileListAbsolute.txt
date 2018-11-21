@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\RoundDecimal(KuotM)\RoundDecimal(KuotM)\obj\Debug\RoundDecimal(KuotM).csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\RoundDecimal(KuotM)\RoundDecimal(KuotM)\obj\Debug\RoundDecimal_KuotM_.frmRoundDecimal.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\RoundDecimal(KuotM)\RoundDecimal(KuotM)\obj\Debug\RoundDecimal_KuotM_.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\RoundDecimal(KuotM)\RoundDecimal(KuotM)\obj\Debug\RoundDecimal(KuotM).csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\RoundDecimal(KuotM)\RoundDecimal(KuotM)\bin\Debug\RoundDecimal(KuotM).exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\RoundDecimal(KuotM)\RoundDecimal(KuotM)\bin\Debug\RoundDecimal(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\RoundDecimal(KuotM)\RoundDecimal(KuotM)\bin\Debug\RoundDecimal(KuotM).pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\RoundDecimal(KuotM)\RoundDecimal(KuotM)\obj\Debug\RoundDecimal(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\RoundDecimal(KuotM)\RoundDecimal(KuotM)\obj\Debug\RoundDecimal(KuotM).pdb

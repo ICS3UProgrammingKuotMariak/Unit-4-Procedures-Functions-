@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.nudDecimal = new System.Windows.Forms.NumericUpDown();
             this.btnRound = new System.Windows.Forms.Button();
             this.lblEnterNum = new System.Windows.Forms.Label();
             this.txtUserNum = new System.Windows.Forms.TextBox();
@@ -36,16 +36,16 @@
             this.mnuRoundDecimal = new System.Windows.Forms.MenuStrip();
             this.mniFile = new System.Windows.Forms.ToolStripMenuItem();
             this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudDecimal)).BeginInit();
             this.mnuRoundDecimal.SuspendLayout();
             this.SuspendLayout();
             // 
-            // numericUpDown1
+            // nudDecimal
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(263, 125);
-            this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(161, 20);
-            this.numericUpDown1.TabIndex = 0;
+            this.nudDecimal.Location = new System.Drawing.Point(263, 125);
+            this.nudDecimal.Name = "nudDecimal";
+            this.nudDecimal.Size = new System.Drawing.Size(161, 20);
+            this.nudDecimal.TabIndex = 0;
             // 
             // btnRound
             // 
@@ -107,6 +107,7 @@
             this.mniExit.Name = "mniExit";
             this.mniExit.Size = new System.Drawing.Size(152, 22);
             this.mniExit.Text = "Exit";
+            this.mniExit.Click += new System.EventHandler(this.mniExit_Click);
             // 
             // frmRoundDecimal
             // 
@@ -117,12 +118,12 @@
             this.Controls.Add(this.txtUserNum);
             this.Controls.Add(this.lblEnterNum);
             this.Controls.Add(this.btnRound);
-            this.Controls.Add(this.numericUpDown1);
+            this.Controls.Add(this.nudDecimal);
             this.Controls.Add(this.mnuRoundDecimal);
             this.MainMenuStrip = this.mnuRoundDecimal;
             this.Name = "frmRoundDecimal";
             this.Text = "Round Decimal";
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudDecimal)).EndInit();
             this.mnuRoundDecimal.ResumeLayout(false);
             this.mnuRoundDecimal.PerformLayout();
             this.ResumeLayout(false);
@@ -132,7 +133,7 @@
 
         #endregion
 
-        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.NumericUpDown nudDecimal;
         private System.Windows.Forms.Button btnRound;
         private System.Windows.Forms.Label lblEnterNum;
         private System.Windows.Forms.TextBox txtUserNum;
