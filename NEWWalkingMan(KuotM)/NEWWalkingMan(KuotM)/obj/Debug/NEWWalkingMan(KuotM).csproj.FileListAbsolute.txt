@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\NEWWalkingMan(KuotM)\NEWWalkingMan(KuotM)\obj\Debug\NEWWalkingMan(KuotM).csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\NEWWalkingMan(KuotM)\NEWWalkingMan(KuotM)\obj\Debug\NEWWalkingMan_KuotM_.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\NEWWalkingMan(KuotM)\NEWWalkingMan(KuotM)\obj\Debug\NEWWalkingMan(KuotM).csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\NEWWalkingMan(KuotM)\NEWWalkingMan(KuotM)\bin\Debug\NEWWalkingMan(KuotM).exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\NEWWalkingMan(KuotM)\NEWWalkingMan(KuotM)\bin\Debug\NEWWalkingMan(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\NEWWalkingMan(KuotM)\NEWWalkingMan(KuotM)\bin\Debug\NEWWalkingMan(KuotM).pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\NEWWalkingMan(KuotM)\NEWWalkingMan(KuotM)\obj\Debug\NEWWalkingMan_KuotM_.NWalkingManForm.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\NEWWalkingMan(KuotM)\NEWWalkingMan(KuotM)\obj\Debug\NEWWalkingMan(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\NEWWalkingMan(KuotM)\NEWWalkingMan(KuotM)\obj\Debug\NEWWalkingMan(KuotM).pdb

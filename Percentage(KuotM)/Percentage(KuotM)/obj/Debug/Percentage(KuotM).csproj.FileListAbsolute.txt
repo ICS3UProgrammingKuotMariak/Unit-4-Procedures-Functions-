@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\Percentage(KuotM)\Percentage(KuotM)\bin\Debug\Percentage(KuotM).exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\Percentage(KuotM)\Percentage(KuotM)\bin\Debug\Percentage(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\Percentage(KuotM)\Percentage(KuotM)\bin\Debug\Percentage(KuotM).pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\Percentage(KuotM)\Percentage(KuotM)\obj\Debug\Percentage(KuotM).csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\Percentage(KuotM)\Percentage(KuotM)\obj\Debug\Percentage_KuotM_.frmPercentage.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\Percentage(KuotM)\Percentage(KuotM)\obj\Debug\Percentage_KuotM_.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\Percentage(KuotM)\Percentage(KuotM)\obj\Debug\Percentage(KuotM).csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\Percentage(KuotM)\Percentage(KuotM)\obj\Debug\Percentage(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 4 (Procedures & Functions)\Percentage(KuotM)\Percentage(KuotM)\obj\Debug\Percentage(KuotM).pdb
