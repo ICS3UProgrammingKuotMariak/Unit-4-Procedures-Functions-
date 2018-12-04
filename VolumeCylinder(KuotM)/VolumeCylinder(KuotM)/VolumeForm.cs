@@ -26,13 +26,30 @@ namespace VolumeCylinder_KuotM_
 
         private double CalculateVolume(double radius, double height)
         {
+            // This declares local variable
             double Volume;
+
+            // This calculates the volume 
             Volume = Math.PI * Math.Pow(radius, 2) * height;
+
+            // This displays the volume in a message box
+            MessageBox.Show("The volume is: " + Volume + " cubic units");
+
+            // This returns the volume as a double
             return Volume;
         }
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
+            // This declares local variables
+            double userRadius, userHeight;
+
+            // This converts the text box to a double and assigns it to given variables
+            userRadius = Convert.ToDouble(txtRadius.Text);
+            userHeight = Convert.ToDouble(txtHeight.Text);
+
+            // This calls the CalculateVolume function
+            this.CalculateVolume(userRadius, userHeight);
 
         }
     }
